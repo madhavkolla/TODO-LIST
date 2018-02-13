@@ -26,12 +26,7 @@ Different IDEs
 Webstorm
 Atom.io
 Sublime
-Dreamweaver
 Github
-Important part of any work environment
-We will use it through the command line interface
-Description:
-Choose one editor and get good at it. You don’t need to have all three of these editors, or even watch all three of the editor videos. Just choose one editor. That’s it. Just one. I use webstorm, and in the next video I will tell you why and show it to you. One thing to know: it takes awhile to get good with an IDE. I recently had the experience of driving my friend’s car. And I couldn’t figure out how to do things. I had to stop and spend time trying to find XM radio again. It’s the same way with an IDE. It takes you awhile to be able to drive it quickly and well.
 
 ```
 WebStorm
@@ -69,16 +64,6 @@ Description:
 While this video talks about Sublime as a “has-been,” the people who make Sublime have recently updated the editor making it a viable option today. 
 
 ```
-Dreamweaver
-Dreamweaver was the industry standard for website creation in the late 1990’s and early 2000’s.
-Dreamweaver is a WYSIWYG (weeeseeewigggeeee) tool - what you see is what you get
-It allows you to drag-and-drap items around and dreamweaver writes the code for you
-As dreamweaver writes the code for you, it can be a big crutch that prevents you from writing and learning the code yourself
-It is strongly recommended that you do not use dreamweaver
-Most professional website builders today do not use dreamweaver.
-Description:
-I just have to mention Dreamweaver because I don’t want you to fall in its evil embrace. Dreamweaver is like the drug dealer who gives crack cocaine to people, gets them hooked, then sucks all of the money out of them as their lives are destroyed. Dreamweaver will make you feel very good at first, but ultimately it will make you a pathetic and insecure coder who doesn’t understand anything.
-
 
 ## TODO LIST
 
