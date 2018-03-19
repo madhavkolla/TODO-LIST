@@ -1,7 +1,5 @@
 
-# Project Title
 # TODO LIST
-
 
 # Project Link
 https://madhavkolla.github.io/TODO-LIST/
