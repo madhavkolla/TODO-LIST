@@ -70,5 +70,5 @@ While this video talks about Sublime as a “has-been,” the people who make Su
 
 ## License
 
-This project is free to use with out any copyrights.
+This project is free to use with out any copyrights..
 
