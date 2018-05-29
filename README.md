@@ -55,7 +55,6 @@ Description:
 Atom.io is the new kid on the block. It is very compelling. It was created by github. The people at github know what they’re doing. It is now also open source, which means many talented people are helping it grow. There are also a lot of packages you can get for it. 
 
 ```
-
 Sublime
 Sublime was the industry standard in the mid-2000’s
 Now sublime is the old-dog on the block
